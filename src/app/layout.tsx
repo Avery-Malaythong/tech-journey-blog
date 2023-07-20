@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 
 /*
 TODO:  Change these things along with:
-  - SMAPTON.jpeg in /public/images
+  - avatar.jpeg in /public/images
   - favicon.ico in /public
  */
 const font = Rajdhani({ weight: '400', subsets: ['latin']})
