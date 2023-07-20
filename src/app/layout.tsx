@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 
 /*
 TODO:  Change these things along with:
-  - avatar.jpeg in /public/images
+  - SMAPTON.jpeg in /public/images
   - favicon.ico in /public
  */
 const font = Inter({subsets: ['latin']})
