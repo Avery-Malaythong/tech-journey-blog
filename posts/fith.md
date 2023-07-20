@@ -13,7 +13,7 @@ Status: deceased; N/A
 
 Parents: Alive 
 
-Bothers: Alive
+Brothers: Alive
 
 
 
