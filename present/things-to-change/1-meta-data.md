@@ -13,7 +13,6 @@ const title = 'Luke\'s Site';
 const description = 'This the Tech Journey template site';
 const links = [
   {title: 'Pokemon', href: '/pokemon'},
-  {title: 'Rick and Morty', href: '/rick-and-morty'}
 ];
 const SocialLinks = {
   twitter: '#twitter',

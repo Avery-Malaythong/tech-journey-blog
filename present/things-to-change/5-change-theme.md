@@ -7,14 +7,14 @@ This is the block of code:
 ```javascript
     daisyui: {
     themes: [
-        "forest",
+        "luxruy",
         {
             "mytheme": {
-                "primary": "#a991f7",
-                "secondary": "#f6d860",
-                "accent": "#37cdbe",
-                "neutral": "#3d4451",
-                "base-100": "#ffffff",
+                "primary": "#e7e5e4",
+                "secondary": "#152747",
+                "accent": "#513448",
+                "neutral": "#331800",
+                "base-100": "#09090b",
             },
         },
     ],
@@ -35,8 +35,7 @@ Add a toggle for Dark mode
 Change:
 
 ```jsx
-{/* uncomment me! */}
-{/*<DarkModeButton/>*/}
+// <DarkModeButton/>
 ```
 
 to

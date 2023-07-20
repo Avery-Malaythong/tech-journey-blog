@@ -11,7 +11,7 @@ type AllPostsData = {
 }[]
 
 // Change this url to change the image!
-const imageUrl = 'https://unsplash.com/photos/P_nM4HIeX8Y';
+const imageUrl = 'https://unsplash.com/photos/deaqEVtdSgk';
 const imageKey = imageUrl.split('/').at(-1);
 
 export default function Home() {
@@ -21,13 +21,13 @@ export default function Home() {
       <div>
         <section>
           <p className={'prose'}>
-            Greatings I am Kota. Welcome to hell 
+            Greatings ____. I am L!l!th 
           </p>
           <div className={'my-4'}>
             <i>
-              Heheheh{' '}
+              %%$^@&#{' '}
               <button className={'btn btn-primary'}>
-                <Link href={'https://giphy.com/gifs/lets-dance-dancing-kitty-DA8op0omzFuwe14iyj'}>
+                <Link href={'https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2737f3e54f0539776dafeadbe09&tbnid=0pT0SxYHRdN0CM&vet=12ahUKEwjM3u_yip6AAxVTPd4AHYTfBT0QMygPegUIARCHAg..i&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2LG4DMEl0hu26HNQMYjr6U%3Fautoplay%3Dtrue&docid=H9jhHX_tehn6MM&w=640&h=640&q=mandela%20catalogue%20&safe=active&ved=2ahUKEwjM3u_yip6AAxVTPd4AHYTfBT0QMygPegUIARCHAg'}>
                   <span className={'text-primary-content'}>
                     here
                   </span>
@@ -43,7 +43,7 @@ export default function Home() {
         </div>
 
         <section className={'prose'}>
-          <h2>Blog</h2>
+          <h2>Files.</h2>
           <ul>
             {allPostsData.map(({id, date, title}) => (
                 <li key={id}>

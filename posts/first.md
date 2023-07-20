@@ -1,14 +1,20 @@
 ---
-title: 'This is the first post!'
+title: '!&$#(*#@)'
 date: '2023-07-01'
 ---
+Austen Quen 
 
-This is the **FIRST** blog post on my site.
+Long brown hair, tan skin, brown eyes, 5’6,
 
-I can use this to journal my thoughts about
-- Books 
-- Movies
-- TV shows
-- Sports
+13 years old
 
-What are some things you like?
+paranormal physc 
+
+Status: Alive
+
+Parents: Alive 
+
+Brother: alive
+
+Sister: deceased 
+
